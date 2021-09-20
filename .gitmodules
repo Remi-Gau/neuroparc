@@ -3,3 +3,7 @@
 	url = https://gin.g-node.org/cpp-lln-lab/neuroparc_data.git
 	datalad-id = 1d2293e4-82b7-4151-984d-aa32d84b315b
 	datalad-url = https://gin.g-node.org/cpp-lln-lab/neuroparc_data.git
+[submodule "atlases"]
+	path = atlases
+	url = https://gin.g-node.org/cpp-lln-lab/neuroparc_data.git
+	datalad-id = 1d2293e4-82b7-4151-984d-aa32d84b315b
